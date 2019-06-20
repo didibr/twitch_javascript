@@ -3,7 +3,8 @@
 <b>Injetando o Script:</b><br>
 Para rodar o bot no canal que deseja, basta injetar o script abaixo.<br>
 para isso você deve estar no canal que deseja colocar o Bot<br>
-e escrever na barra de endereço, o seguinte comando<br>
+e escrever na barra de endereço, o seguinte comando<br><br>
+
 <i>
 JAVASCRIPT:<br>
     (function() {var script = document.createElement('script');<br>
