@@ -1,7 +1,7 @@
 # twitch_javascript
 
 <b>Injetando o Script:</b>
-Para rodar o bot no canal que deseja, basta injetar o script abaixo.
+Para rodar o bot no canal que deseja, basta injetar o script abaixo.<p>
 para isso você deve estar no canal que deseja colocar o Bot
 e escrever na barra de endereço, o seguinte comando
 <p>JAVASCRIPT:</p>
