@@ -7,7 +7,7 @@ e escrever na barra de endereço, o seguinte comando<br><br>
 <i>
 JAVASCRIPT:<br>
     (function() {var script = document.createElement('script');<br>
-    script.src = '//cdn.jsdelivr.net/gh/didibr/twitch_javascript/bot.js';<br>
+    script.src = <b>'//cdn.jsdelivr.net/gh/didibr/twitch_javascript@latest/bot.js'</b>;<br>
     document.getElementsByTagName('head')[0].appendChild(script);})();<br>    
 </i>
 <br><br>
