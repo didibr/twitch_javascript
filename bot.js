@@ -78,6 +78,6 @@ function ChatWrite(msg){
 function onChatMessage(from,msg){//Quando ler uma mensagem Nova
     console.log(from,msg);
     if(msg=='!debug'){
-        ChatWrite('DEBUG OK 1');
+        ChatWrite('DEBUG OK 2');
     }
 }
