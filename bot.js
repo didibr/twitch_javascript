@@ -31,7 +31,7 @@ function CreateElements(){
 
 function LoadBot(){
     chatin=document.querySelector('[data-a-target="chat-input"]');
-    chatbtn=document.querySelector("[data-test-selector=chat-send-button]");
+    chatbtn=document.querySelector("[data-a-target=chat-send-button]");
 }
 
 
